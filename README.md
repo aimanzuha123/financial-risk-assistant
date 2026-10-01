@@ -120,3 +120,4 @@ If you wish to upload your own portfolio CSV file, ensure it has the following c
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
